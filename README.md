@@ -15,7 +15,7 @@ The dataset includes 30000 records and 8 features, divided into:<br>
 ● Identified rows containing missing or null values.<br>
 ● Removed these rows to ensure complete and clean data for analysis.<br>
 <br>
-☑️**Data Visualization:**<br
+☑️**Data Visualization:**<br>
 To better understand and analyze the dataset, several visualization techniques were applied using Python libraries like Matplotlib and Seaborn:<br>
 ● <b>Line Plot:</b> Trend Analysis over Time<br>
 ● <b>Bar Plot:</b> Comparing categorical data<br>
